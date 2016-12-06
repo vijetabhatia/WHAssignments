@@ -1,0 +1,13 @@
+Read me for assignment 2
+
+This assignment has selenium webdriver with Junit in Page Object model
+
+Why this combination was chosen ?
+
+- Clean Code : Page Object Model ensures that operations and flows should be separated from Verification. 
+			   This ensures code cleaner and easy to understand
+- Reusability : Since the object repositery is independent of the test logic and cases , the same model can be 
+				resused for other tools/frameworks as well
+- Less and more optimized code 
+
+ 

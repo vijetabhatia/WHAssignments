@@ -1,0 +1,10 @@
+Read me for Assignment 1 
+
+
+I have used Cucumber-Selenium combination for testing Scenario1. 
+I would like to mention some advantages why this framework was chosen :
+
+- Since our main motive is the tests should be simple , maintainable and easily understandable hence this was
+the preferrred language 
+
+- Collaboration between Business stakeholders, Business Analysts, QA Team and developers
